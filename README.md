@@ -1,0 +1,1 @@
+I wrote this program to help me complete my Multi-Variable Caculus homework. I got the inspiration after I had to repeatedly computed the same vectors over and over again. I spent about half a day doing it just to save a couple hrs of homework. Man, it was fun and brought back good memories while writing this comment haha.
